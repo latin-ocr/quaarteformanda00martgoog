@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./quaarteformanda00martgoog_0093.png"; bbox 0 0 3720 5875; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 200 6 3520 5868">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 200 6 3520 5868">
+     <span class='ocr_line' id='line_1_1' title="bbox 200 6 3520 5868; textangle 270"><span class='ocrx_word' id='word_1_1' title='bbox 200 6 3520 5868; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 1669 3610 1983 3659">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 1669 3610 1983 3659">
+     <span class='ocr_line' id='line_1_2' title="bbox 1669 3610 1983 3659; baseline 0.01 -3"><span class='ocrx_word' id='word_1_2' title='bbox 1669 3611 1767 3657; x_wconf 69' lang='lat'>¹100</span> <span class='ocrx_word' id='word_1_3' title='bbox 1799 3610 1829 3657; x_wconf 71' lang='grc' dir='ltr'>ἑ</span> <span class='ocrx_word' id='word_1_4' title='bbox 1870 3613 1983 3659; x_wconf 79' lang='grc'>500.</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
